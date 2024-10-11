@@ -1,5 +1,6 @@
-# Frame-Transition-Synthesizer
+# Frame-Transition-Synthesizer for textbook-to-tutor
 Video AI model that will synthesize a frame transition for 2 clips \(^_^)/
+
 Product Development Plan
 1. Model Architecture:
 Diffusion Transformer Model: Given your requirement for a seamless transition between two video clips, you will need a diffusion model that generates frames by progressively refining the image quality. A transformer-based approach ensures that the model can efficiently handle temporal dependencies between frames.
